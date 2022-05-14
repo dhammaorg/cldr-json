@@ -187,7 +187,11 @@
     },
     "en-GB": {
       "name": "British English",
-      "english_name": "British English"
+      "english_name": "UK English"
+    },
+    "en-US": {
+      "name": "American English",
+      "english_name": "US English"
     },
     "eo": {
       "name": "esperanto",
